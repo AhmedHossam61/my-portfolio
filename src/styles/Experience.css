@@ -1,0 +1,138 @@
+.experience {
+  padding: 100px 0;
+  background: white;
+}
+
+.experience h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 60px;
+  color: #333;
+}
+
+.experience-section {
+  margin-bottom: 60px;
+}
+
+.experience-section h3 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.timeline {
+  position: relative;
+  padding-left: 30px;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 15px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #007bff;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.timeline-marker {
+  position: absolute;
+  left: -22px;
+  top: 0;
+  width: 12px;
+  height: 12px;
+  background: #007bff;
+  border-radius: 50%;
+  border: 3px solid white;
+  box-shadow: 0 0 0 3px #007bff;
+}
+
+.timeline-content {
+  background: #f8f9fa;
+  padding: 25px;
+  border-radius: 10px;
+  border-left: 4px solid #007bff;
+}
+
+.experience-header {
+  margin-bottom: 15px;
+}
+
+.experience-header h4 {
+  font-size: 1.3rem;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.company {
+  color: #007bff;
+  font-weight: 500;
+  margin-right: 15px;
+}
+
+.duration {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.experience-description {
+  margin: 15px 0;
+  padding-left: 20px;
+}
+
+.experience-description li {
+  margin-bottom: 8px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.experience-technologies {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 15px;
+}
+
+.tech-tag {
+  background: #e9ecef;
+  padding: 4px 12px;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  color: #666;
+}
+
+.education-section h3 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.education-item {
+  background: #f8f9fa;
+  padding: 25px;
+  border-radius: 10px;
+  border-left: 4px solid #28a745;
+}
+
+.education-item h4 {
+  font-size: 1.3rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.institution {
+  color: #28a745;
+  font-weight: 500;
+  margin-right: 15px;
+}
+
+.education-item p {
+  margin-top: 10px;
+  color: #666;
+  line-height: 1.6;
+}

@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="container">
         <div className="hero-content">
           <div className="hero-text">
-            <h1>Hi, I'm <span className="highlight">Ahmed Hossam</span></h1>
+            <h1>Hi, I'm <span className="highlight">Ahmed Hossam Abdelrahman</span></h1>
             <h2>AI / Machine Learning Engineer</h2>
             <p>AI/ML Engineer with hands-on experience in supervised & unsupervised learning, deep learning, and computer vision. Proficient in Python, TensorFlow, and Keras with a strong background in algorithm design and model optimization.</p>
             <div className="hero-buttons">
@@ -31,7 +31,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="hero-image">
-            <img src="/api/placeholder/400/400" alt="Ahmed Hossam Abdelrahman" />
+            <img src="/personal-photos/graduation.jpg" alt="Ahmed Hossam Abdelrahman" />
           </div>
         </div>
       </div>

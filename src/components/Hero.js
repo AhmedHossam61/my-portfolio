@@ -31,7 +31,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="hero-image">
-            <img src="/Personal-photos/graduation.jpg" alt="Ahmed Hossam " />
+            <img src="https://drive.google.com/file/d/1u-k5WXkLcrXB-_pTqkl9ci7KkVcQhxyO/view?usp=sharing" alt="Ahmed Hossam " />
           </div>
         </div>
       </div>

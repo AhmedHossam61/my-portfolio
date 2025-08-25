@@ -12,7 +12,7 @@ const Projects = () => {
       technologies: ["Python", "Scikit-learn", "Streamlit", "GitHub Actions"],
       demoImage: "/project-demos/Diabetes_detection.jpg",
       liveLink: "https://diabetes-predictor-ahmed.streamlit.app", // Your actual Streamlit app
-      githubLink: "https://github.com/AhmedHossam61/diabetes-classification",
+      githubLink: "https://github.com/AhmedHossam61/Diabetes-prediction",
       achievements: [
         "Achieved 89% prediction accuracy with Naive Bayes",
         "Deployed as cloud-based web app using Streamlit",
@@ -58,7 +58,7 @@ const Projects = () => {
       demoImage: "/project-demos/graduation-project.png",
       // No live link for hardware project, but could add video demo
       demoVideo: "/project-demos/graduation-project-demo.mp4", 
-      githubLink: "https://github.com/AhmedHossam61/graduation-project",
+      githubLink: "https://github.com/AhmedHossam61/Graduation-Project",
       achievements: [
         "Developed 4 real-time drowsiness detection approaches",
         "Created driver authentication system using facial recognition",

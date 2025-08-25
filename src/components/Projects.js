@@ -11,7 +11,7 @@ const Projects = () => {
       description: "Machine learning model for diabetes prediction with cloud deployment and real-time inference capabilities.",
       technologies: ["Python", "Scikit-learn", "Streamlit", "GitHub Actions"],
       demoImage: "/project-demos/Diabetes_detection.jpg",
-      liveLink: "https://diabetes-predictor-ahmed.streamlit.app", // Your actual Streamlit app
+      liveLink: "https://diabetes-prediction-d7dftiyhavjbrrv3avotnu.streamlit.app/", // Your actual Streamlit app
       githubLink: "https://github.com/AhmedHossam61/Diabetes-prediction",
       achievements: [
         "Achieved 89% prediction accuracy with Naive Bayes",

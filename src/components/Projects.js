@@ -52,7 +52,7 @@ const Projects = () => {
     },
     {
       id: 4,
-      title: "Capacitive Seat for Cardiovascular Diseases",
+      title: "Graduation-Project | Capacitive Seat for Cardiovascular Diseases",
       description: "Graduation project featuring real-time drowsiness detection, driver authentication, and ECG signal processing for cardiovascular anomaly detection.",
       technologies: ["Mediapipe", "OpenCV", "Signal Processing", "Python"],
       demoImage: "/project-demos/graduation-project.png",

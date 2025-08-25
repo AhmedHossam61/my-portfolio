@@ -10,7 +10,7 @@ const Projects = () => {
       title: "Diabetes Classification Web App",
       description: "Machine learning model for diabetes prediction with cloud deployment and real-time inference capabilities.",
       technologies: ["Python", "Scikit-learn", "Streamlit", "GitHub Actions"],
-      demoImage: "/project-demos/diabetes-classification.png",
+      demoImage: "/project-demos/Diabetes_detection.jpg",
       liveLink: "https://diabetes-predictor-ahmed.streamlit.app", // Your actual Streamlit app
       githubLink: "https://github.com/AhmedHossam61/diabetes-classification",
       achievements: [
@@ -25,7 +25,7 @@ const Projects = () => {
       title: "Facial Emotion Recognition",
       description: "CNN-based model for classifying facial emotions with real-time video detection capabilities.",
       technologies: ["TensorFlow", "CNN", "OpenCV", "Python", "Streamlit"],
-      demoImage: "/project-demos/emotion-recognition.png",
+      demoImage: "/project-demos/emotioal_recognition.jpg",
       liveLink: "https://emotion-recognition-ahmed.streamlit.app", // Deploy this on Streamlit
       githubLink: "https://github.com/AhmedHossam61/facial-emotion-recognition",
       achievements: [

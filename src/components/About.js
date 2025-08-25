@@ -33,9 +33,6 @@ const About = () => {
               </div>
             </div>
           </div>
-          <div className="about-image">
-            <img src="/api/placeholder/350/400" alt="About Ahmed" />
-          </div>
         </div>
       </div>
     </section>

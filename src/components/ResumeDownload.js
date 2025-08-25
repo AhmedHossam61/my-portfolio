@@ -31,7 +31,7 @@ const ResumeDownload = () => {
             </div>
             <div className="highlight-item">
               <h4>🏆 Achievements</h4>
-              <p>Kaggle Competition Top 50%, GDSC Founder</p>
+              <p>Kaggle Competition Top 50%, GDSC Founder \n , 2 Rank at Favicon for AI inovation and Computer vision </p>
             </div>
             <div className="highlight-item">
               <h4>🔧 Specialties</h4>

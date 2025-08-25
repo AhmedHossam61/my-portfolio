@@ -32,7 +32,6 @@ const Footer = () => {
         </div>
         <div className="footer-bottom">
           <p>&copy; 2025 Ahmed Hossam Abdelrahman. All rights reserved.</p>
-          <p>Built with React ⚛️ and AI passion 🤖</p>
         </div>
       </div>
     </footer>

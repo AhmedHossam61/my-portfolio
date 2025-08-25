@@ -55,6 +55,13 @@
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
+
+.about-content-no-image {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+
 @media (max-width: 768px) {
   .about-content {
     grid-template-columns: 1fr;
@@ -64,3 +71,4 @@
     grid-template-columns: 1fr;
   }
 }
+

@@ -82,6 +82,7 @@ const Projects = () => {
         <h2>Selected Projects</h2>
         <p className="projects-intro">
           Here are some of my AI/ML projects with live demos. Click "Try Live Demo" to interact with the applications!
+          Note: Demo Section is still in progress and will be updated soon.
         </p>
         
         <div className="projects-grid">
